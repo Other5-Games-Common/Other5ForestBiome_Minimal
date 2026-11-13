@@ -632,5 +632,15 @@
                          "Class":  "Texture2D",
                          "Source":  "Fab:CozyNature"
                      }
-                 ]
+                 ],
+    "Fixups":  [
+                   {
+                       "Packages":  "/Other5ForestBiome_Minimal/CozyNature/Meshes/Trees/*",
+                       "Collision":  "ComplexAsSimple"
+                   },
+                   {
+                       "Packages":  "/Other5ForestBiome_Minimal/CozyNature/Meshes/Foliage/SM_Bush*",
+                       "Collision":  "None"
+                   }
+               ]
 }

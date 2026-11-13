@@ -3,451 +3,6 @@
     "Plugin":  "Other5ForestBiome_Minimal",
     "StandIns":  [
                      {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Foliage/PivotPainter/FT_EuropeanHornbeam_Field_01_PP",
-                         "Class":  "FoliageType_InstancedStaticMesh",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Foliage/PivotPainter/FT_EuropeanHornbeam_Field_03_PP",
-                         "Class":  "FoliageType_InstancedStaticMesh",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Foliage/PivotPainter/FT_EuropeanHornbeam_Forest_03_PP",
-                         "Class":  "FoliageType_InstancedStaticMesh",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Foliage/PivotPainter/FT_EuropeanHornbeam_Forest_07_PP",
-                         "Class":  "FoliageType_InstancedStaticMesh",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Foliage/PivotPainter/FT_EuropeanHornbeam_Sapling_03_PP",
-                         "Class":  "FoliageType_InstancedStaticMesh",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Foliage/PivotPainter/FT_EuropeanHornbeam_Seedling_02_PP",
-                         "Class":  "FoliageType_InstancedStaticMesh",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Geometry/PivotPainter/SM_EuropeanHornbeam_Field_01_PP",
-                         "Class":  "StaticMesh",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Geometry/PivotPainter/SM_EuropeanHornbeam_Field_03_PP",
-                         "Class":  "StaticMesh",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Geometry/PivotPainter/SM_EuropeanHornbeam_Forest_03_PP",
-                         "Class":  "StaticMesh",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Geometry/PivotPainter/SM_EuropeanHornbeam_Forest_07_PP",
-                         "Class":  "StaticMesh",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Geometry/PivotPainter/SM_EuropeanHornbeam_Sapling_03_PP",
-                         "Class":  "StaticMesh",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Geometry/PivotPainter/SM_EuropeanHornbeam_Seedling_02_PP",
-                         "Class":  "StaticMesh",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Materials/Impostor/MAI_Impostor_EuropeanHornbeam",
-                         "Class":  "MaterialInstanceConstant",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Materials/Impostor/MI_Impostor_Field_01",
-                         "Class":  "MaterialInstanceConstant",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Materials/Impostor/MI_Impostor_Field_03",
-                         "Class":  "MaterialInstanceConstant",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Materials/Impostor/MI_Impostor_Forest_03",
-                         "Class":  "MaterialInstanceConstant",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Materials/Impostor/MI_Impostor_Forest_07",
-                         "Class":  "MaterialInstanceConstant",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Materials/PivotPainter/Field/Field_01/MAI_EuropeanHornbeam_Field_01",
-                         "Class":  "MaterialInstanceConstant",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Materials/PivotPainter/Field/Field_01/MI_EuropeanHornbeam_Field_01_Decoration",
-                         "Class":  "MaterialInstanceConstant",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Materials/PivotPainter/Field/Field_01/MI_EuropeanHornbeam_Field_01_Tileable",
-                         "Class":  "MaterialInstanceConstant",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Materials/PivotPainter/Field/Field_01/MI_EuropeanHornbeam_Field_01_TwoSided",
-                         "Class":  "MaterialInstanceConstant",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Materials/PivotPainter/Field/Field_03/MAI_EuropeanHornbeam_Field_03",
-                         "Class":  "MaterialInstanceConstant",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Materials/PivotPainter/Field/Field_03/MI_EuropeanHornbeam_Field_03_Decoration",
-                         "Class":  "MaterialInstanceConstant",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Materials/PivotPainter/Field/Field_03/MI_EuropeanHornbeam_Field_03_Tileable",
-                         "Class":  "MaterialInstanceConstant",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Materials/PivotPainter/Field/Field_03/MI_EuropeanHornbeam_Field_03_TwoSided",
-                         "Class":  "MaterialInstanceConstant",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Materials/PivotPainter/Forest/Forest_03/MAI_EuropeanHornbeam_Forest_03",
-                         "Class":  "MaterialInstanceConstant",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Materials/PivotPainter/Forest/Forest_03/MI_EuropeanHornbeam_Forest_03_Decoration",
-                         "Class":  "MaterialInstanceConstant",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Materials/PivotPainter/Forest/Forest_03/MI_EuropeanHornbeam_Forest_03_Tileable",
-                         "Class":  "MaterialInstanceConstant",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Materials/PivotPainter/Forest/Forest_03/MI_EuropeanHornbeam_Forest_03_Trunk",
-                         "Class":  "MaterialInstanceConstant",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Materials/PivotPainter/Forest/Forest_03/MI_EuropeanHornbeam_Forest_03_TwoSided",
-                         "Class":  "MaterialInstanceConstant",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Materials/PivotPainter/Forest/Forest_07/MAI_EuropeanHornbeam_Forest_07",
-                         "Class":  "MaterialInstanceConstant",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Materials/PivotPainter/Forest/Forest_07/MI_EuropeanHornbeam_Forest_07_Decoration",
-                         "Class":  "MaterialInstanceConstant",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Materials/PivotPainter/Forest/Forest_07/MI_EuropeanHornbeam_Forest_07_Tileable",
-                         "Class":  "MaterialInstanceConstant",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Materials/PivotPainter/Forest/Forest_07/MI_EuropeanHornbeam_Forest_07_TwoSided",
-                         "Class":  "MaterialInstanceConstant",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Materials/PivotPainter/Sapling/Sapling_03/MAI_EuropeanHornbeam_Sapling_03",
-                         "Class":  "MaterialInstanceConstant",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Materials/PivotPainter/Sapling/Sapling_03/MI_EuropeanHornbeam_Sapling_03_Tileable",
-                         "Class":  "MaterialInstanceConstant",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Materials/PivotPainter/Sapling/Sapling_03/MI_EuropeanHornbeam_Sapling_03_TwoSided",
-                         "Class":  "MaterialInstanceConstant",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Materials/PivotPainter/Seedling/Seedling_02/MAI_EuropeanHornbeam_Seedling_02",
-                         "Class":  "MaterialInstanceConstant",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Materials/PivotPainter/Seedling/Seedling_02/MI_EuropeanHornbeam_Seedling_02_Tileable",
-                         "Class":  "MaterialInstanceConstant",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Materials/PivotPainter/Seedling/Seedling_02/MI_EuropeanHornbeam_Seedling_02_TwoSided",
-                         "Class":  "MaterialInstanceConstant",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Materials/SimpleWind/MAI_EuropeanHornbeam",
-                         "Class":  "MaterialInstanceConstant",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Materials/SimpleWind/MI_EuropeanHornbeam_Trunk_01",
-                         "Class":  "MaterialInstanceConstant",
-                         "Source":  "ElectricDreams"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Materials/SimpleWind/MI_EuropeanHornbeam_Trunk_02",
-                         "Class":  "MaterialInstanceConstant",
-                         "Source":  "ElectricDreams"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Textures/Decoration/T_EuropeanHornbeam_Decoration_Albedo",
-                         "Class":  "Texture2D",
-                         "Source":  "ElectricDreams"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Textures/Decoration/T_EuropeanHornbeam_Decoration_Mask",
-                         "Class":  "Texture2D",
-                         "Source":  "ElectricDreams"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Textures/Decoration/T_EuropeanHornbeam_Decoration_Normal",
-                         "Class":  "Texture2D",
-                         "Source":  "ElectricDreams"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Textures/Impostor/Field/Field_01/T_Impostor_BaseColor_Field_01_Summer",
-                         "Class":  "Texture2D",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Textures/Impostor/Field/Field_01/T_Impostor_BaseColor_Field_01_Winter",
-                         "Class":  "Texture2D",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Textures/Impostor/Field/Field_01/T_Impostor_Normal_Field_01_Summer",
-                         "Class":  "Texture2D",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Textures/Impostor/Field/Field_01/T_Impostor_Normal_Field_01_Winter",
-                         "Class":  "Texture2D",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Textures/Impostor/Field/Field_03/T_Impostor_BaseColor_Field_03_Summer",
-                         "Class":  "Texture2D",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Textures/Impostor/Field/Field_03/T_Impostor_BaseColor_Field_03_Winter",
-                         "Class":  "Texture2D",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Textures/Impostor/Field/Field_03/T_Impostor_Normal_Field_03_Summer",
-                         "Class":  "Texture2D",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Textures/Impostor/Field/Field_03/T_Impostor_Normal_Field_03_Winter",
-                         "Class":  "Texture2D",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Textures/Impostor/Forest/Forest_03/T_Impostor_BaseColor_Forest_03_Summer",
-                         "Class":  "Texture2D",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Textures/Impostor/Forest/Forest_03/T_Impostor_BaseColor_Forest_03_Winter",
-                         "Class":  "Texture2D",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Textures/Impostor/Forest/Forest_03/T_Impostor_Normal_Forest_03_Summer",
-                         "Class":  "Texture2D",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Textures/Impostor/Forest/Forest_03/T_Impostor_Normal_Forest_03_Winter",
-                         "Class":  "Texture2D",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Textures/Impostor/Forest/Forest_07/T_Impostor_BaseColor_Forest_07_Summer",
-                         "Class":  "Texture2D",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Textures/Impostor/Forest/Forest_07/T_Impostor_BaseColor_Forest_07_Winter",
-                         "Class":  "Texture2D",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Textures/Impostor/Forest/Forest_07/T_Impostor_Normal_Forest_07_Summer",
-                         "Class":  "Texture2D",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Textures/Impostor/Forest/Forest_07/T_Impostor_Normal_Forest_07_Winter",
-                         "Class":  "Texture2D",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Textures/PivotPainter/Field/T_EuropeanHornbeam_Field_01_DirLen",
-                         "Class":  "Texture2D",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Textures/PivotPainter/Field/T_EuropeanHornbeam_Field_01_PosParent",
-                         "Class":  "Texture2D",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Textures/PivotPainter/Field/T_EuropeanHornbeam_Field_03_DirLen",
-                         "Class":  "Texture2D",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Textures/PivotPainter/Field/T_EuropeanHornbeam_Field_03_PosParent",
-                         "Class":  "Texture2D",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Textures/PivotPainter/Forest/T_EuropeanHornbeam_Forest_03_DirLen",
-                         "Class":  "Texture2D",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Textures/PivotPainter/Forest/T_EuropeanHornbeam_Forest_03_PosParent",
-                         "Class":  "Texture2D",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Textures/PivotPainter/Forest/T_EuropeanHornbeam_Forest_07_DirLen",
-                         "Class":  "Texture2D",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Textures/PivotPainter/Forest/T_EuropeanHornbeam_Forest_07_PosParent",
-                         "Class":  "Texture2D",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Textures/PivotPainter/Sapling/T_EuropeanHornbeam_Sapling_03_DirLen",
-                         "Class":  "Texture2D",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Textures/PivotPainter/Sapling/T_EuropeanHornbeam_Sapling_03_PosParent",
-                         "Class":  "Texture2D",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Textures/PivotPainter/Seedling/T_EuropeanHornbeam_Seedling_02_DirLen",
-                         "Class":  "Texture2D",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Textures/PivotPainter/Seedling/T_EuropeanHornbeam_Seedling_02_PosParent",
-                         "Class":  "Texture2D",
-                         "Source":  "Megascans"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Textures/Tileable/T_EuropeanHornbeam_Tileable_Albedo",
-                         "Class":  "Texture2D",
-                         "Source":  "ElectricDreams"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Textures/Tileable/T_EuropeanHornbeam_Tileable_Mask",
-                         "Class":  "Texture2D",
-                         "Source":  "ElectricDreams"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Textures/Tileable/T_EuropeanHornbeam_Tileable_Normal",
-                         "Class":  "Texture2D",
-                         "Source":  "ElectricDreams"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Textures/Trunk/Trunk_01/T_EuropeanHornbeam_Trunk_01_Albedo",
-                         "Class":  "Texture2D",
-                         "Source":  "ElectricDreams"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Textures/Trunk/Trunk_01/T_EuropeanHornbeam_Trunk_01_Mask",
-                         "Class":  "Texture2D",
-                         "Source":  "ElectricDreams"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Textures/Trunk/Trunk_01/T_EuropeanHornbeam_Trunk_01_Normal",
-                         "Class":  "Texture2D",
-                         "Source":  "ElectricDreams"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Textures/Trunk/Trunk_02/T_EuropeanHornbeam_Trunk_02_Albedo",
-                         "Class":  "Texture2D",
-                         "Source":  "ElectricDreams"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Textures/Trunk/Trunk_02/T_EuropeanHornbeam_Trunk_02_Mask",
-                         "Class":  "Texture2D",
-                         "Source":  "ElectricDreams"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Textures/Trunk/Trunk_02/T_EuropeanHornbeam_Trunk_02_Normal",
-                         "Class":  "Texture2D",
-                         "Source":  "ElectricDreams"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Textures/TwoSided/Summer/T_EuropeanHornbeam_TwoSided_Summer_Albedo",
-                         "Class":  "Texture2D",
-                         "Source":  "ElectricDreams"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Textures/TwoSided/Summer/T_EuropeanHornbeam_TwoSided_Summer_Mask",
-                         "Class":  "Texture2D",
-                         "Source":  "ElectricDreams"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Textures/TwoSided/Summer/T_EuropeanHornbeam_TwoSided_Summer_Normal",
-                         "Class":  "Texture2D",
-                         "Source":  "ElectricDreams"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Textures/TwoSided/Winter/T_EuropeanHornbeam_TwoSided_Winter_Albedo",
-                         "Class":  "Texture2D",
-                         "Source":  "ElectricDreams"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Textures/TwoSided/Winter/T_EuropeanHornbeam_TwoSided_Winter_Mask",
-                         "Class":  "Texture2D",
-                         "Source":  "ElectricDreams"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/EuropeanHornbeam/Textures/TwoSided/Winter/T_EuropeanHornbeam_TwoSided_Winter_Normal",
-                         "Class":  "Texture2D",
-                         "Source":  "ElectricDreams"
-                     },
-                     {
                          "Package":  "/Other5ForestBiome_Minimal/Materials/Albedo_8K_shxmeiak",
                          "Class":  "Texture2D",
                          "Source":  "Megascans"
@@ -716,6 +271,391 @@
                          "Package":  "/Other5ForestBiome_Minimal/Textures/T_MacroVariation",
                          "Class":  "Texture2D",
                          "Source":  "Megascans"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Materials/Foliage/M_Flowers",
+                         "Class":  "Material",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Materials/Foliage/M_Grass",
+                         "Class":  "Material",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Materials/Rocks/M_Rocks",
+                         "Class":  "Material",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Materials/Terrain/MF_Grass",
+                         "Class":  "MaterialFunction",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Materials/Terrain/MF_Rock",
+                         "Class":  "MaterialFunction",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Materials/Terrain/MF_Sand",
+                         "Class":  "MaterialFunction",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Materials/Terrain/M_Landscape",
+                         "Class":  "Material",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Materials/Trees/M_Leafs",
+                         "Class":  "Material",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Materials/Trees/M_Trees",
+                         "Class":  "Material",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/MaterialsInstances/Foliage/MI_Flowers1",
+                         "Class":  "MaterialInstanceConstant",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/MaterialsInstances/Foliage/MI_Flowers2",
+                         "Class":  "MaterialInstanceConstant",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/MaterialsInstances/Foliage/MI_Grass1",
+                         "Class":  "MaterialInstanceConstant",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/MaterialsInstances/Foliage/MI_Grass2",
+                         "Class":  "MaterialInstanceConstant",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/MaterialsInstances/Rocks/MI_Rock1",
+                         "Class":  "MaterialInstanceConstant",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/MaterialsInstances/Rocks/MI_Rock2",
+                         "Class":  "MaterialInstanceConstant",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/MaterialsInstances/Rocks/MI_Rock3",
+                         "Class":  "MaterialInstanceConstant",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/MaterialsInstances/Terrain/MI_Landscape",
+                         "Class":  "MaterialInstanceConstant",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/MaterialsInstances/Trees/MI_LeafsBirch",
+                         "Class":  "MaterialInstanceConstant",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/MaterialsInstances/Trees/MI_LeafsOak",
+                         "Class":  "MaterialInstanceConstant",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/MaterialsInstances/Trees/MI_LeafsPine",
+                         "Class":  "MaterialInstanceConstant",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/MaterialsInstances/Trees/MI_TreeBirch",
+                         "Class":  "MaterialInstanceConstant",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/MaterialsInstances/Trees/MI_TreeOak",
+                         "Class":  "MaterialInstanceConstant",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/MaterialsInstances/Trees/MI_TreePine",
+                         "Class":  "MaterialInstanceConstant",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Meshes/Foliage/SM_Bush01",
+                         "Class":  "StaticMesh",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Meshes/Foliage/SM_Bush02",
+                         "Class":  "StaticMesh",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Meshes/Foliage/SM_Flower1",
+                         "Class":  "StaticMesh",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Meshes/Foliage/SM_Flower2",
+                         "Class":  "StaticMesh",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Meshes/Foliage/SM_Grass1",
+                         "Class":  "StaticMesh",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Meshes/Foliage/SM_Grass2",
+                         "Class":  "StaticMesh",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Meshes/Rocks/SM_Rock1",
+                         "Class":  "StaticMesh",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Meshes/Rocks/SM_Rock2",
+                         "Class":  "StaticMesh",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Meshes/Rocks/SM_Rock3",
+                         "Class":  "StaticMesh",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Meshes/Trees/SM_TreeBirch01",
+                         "Class":  "StaticMesh",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Meshes/Trees/SM_TreeBirch02",
+                         "Class":  "StaticMesh",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Meshes/Trees/SM_TreeBirch03",
+                         "Class":  "StaticMesh",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Meshes/Trees/SM_TreeBirch04",
+                         "Class":  "StaticMesh",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Meshes/Trees/SM_TreeOak01",
+                         "Class":  "StaticMesh",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Meshes/Trees/SM_TreeOak02",
+                         "Class":  "StaticMesh",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Meshes/Trees/SM_TreeOak03",
+                         "Class":  "StaticMesh",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Meshes/Trees/SM_TreeOak04",
+                         "Class":  "StaticMesh",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Meshes/Trees/SM_TreeOak05",
+                         "Class":  "StaticMesh",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Meshes/Trees/SM_TreePine01",
+                         "Class":  "StaticMesh",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Meshes/Trees/SM_TreePine02",
+                         "Class":  "StaticMesh",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Meshes/Trees/SM_TreePine03",
+                         "Class":  "StaticMesh",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Terrain/Foliage/SMF_Bush01",
+                         "Class":  "FoliageType_InstancedStaticMesh",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Terrain/Foliage/SMF_Bush02",
+                         "Class":  "FoliageType_InstancedStaticMesh",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Terrain/Foliage/SMF_Rock1",
+                         "Class":  "FoliageType_InstancedStaticMesh",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Terrain/Foliage/SMF_Rock2",
+                         "Class":  "FoliageType_InstancedStaticMesh",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Terrain/Foliage/SMF_Rock3",
+                         "Class":  "FoliageType_InstancedStaticMesh",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Terrain/Foliage/SMF_TreeBirch01",
+                         "Class":  "FoliageType_InstancedStaticMesh",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Terrain/Foliage/SMF_TreeBirch02",
+                         "Class":  "FoliageType_InstancedStaticMesh",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Terrain/Foliage/SMF_TreeBirch03",
+                         "Class":  "FoliageType_InstancedStaticMesh",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Terrain/Foliage/SMF_TreeBirch04",
+                         "Class":  "FoliageType_InstancedStaticMesh",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Terrain/Foliage/SMF_TreeOak01",
+                         "Class":  "FoliageType_InstancedStaticMesh",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Terrain/Foliage/SMF_TreeOak02",
+                         "Class":  "FoliageType_InstancedStaticMesh",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Terrain/Foliage/SMF_TreeOak03",
+                         "Class":  "FoliageType_InstancedStaticMesh",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Terrain/Foliage/SMF_TreeOak04",
+                         "Class":  "FoliageType_InstancedStaticMesh",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Terrain/Foliage/SMF_TreeOak05",
+                         "Class":  "FoliageType_InstancedStaticMesh",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Terrain/Foliage/SMF_TreePine01",
+                         "Class":  "FoliageType_InstancedStaticMesh",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Terrain/Foliage/SMF_TreePine02",
+                         "Class":  "FoliageType_InstancedStaticMesh",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Terrain/Foliage/SMF_TreePine03",
+                         "Class":  "FoliageType_InstancedStaticMesh",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Textures/Foliage/T_Flowers_O",
+                         "Class":  "Texture2D",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Textures/Foliage/T_Grass_A",
+                         "Class":  "Texture2D",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Textures/Rocks/T_Rock_1_BC",
+                         "Class":  "Texture2D",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Textures/Rocks/T_Rock_2_BC",
+                         "Class":  "Texture2D",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Textures/Rocks/T_Rock_3_BC",
+                         "Class":  "Texture2D",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Textures/Terrain/T_CliffRock_BC",
+                         "Class":  "Texture2D",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Textures/Terrain/T_CliffRock_N",
+                         "Class":  "Texture2D",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Textures/Terrain/T_Grass_BC",
+                         "Class":  "Texture2D",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Textures/Terrain/T_Grass_N",
+                         "Class":  "Texture2D",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Textures/Terrain/T_Sand_BC",
+                         "Class":  "Texture2D",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Textures/Terrain/T_Sand_N",
+                         "Class":  "Texture2D",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Textures/Trees/T_LeafPine_A",
+                         "Class":  "Texture2D",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Textures/Trees/T_Leaf_A",
+                         "Class":  "Texture2D",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Textures/Trees/T_TreeBirch_BC",
+                         "Class":  "Texture2D",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Textures/Trees/T_TreeOak_BC",
+                         "Class":  "Texture2D",
+                         "Source":  "Fab:CozyNature"
+                     },
+                     {
+                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Textures/Trees/T_TreePine_BC",
+                         "Class":  "Texture2D",
+                         "Source":  "Fab:CozyNature"
                      }
                  ]
 }

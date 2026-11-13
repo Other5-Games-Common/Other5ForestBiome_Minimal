@@ -288,26 +288,6 @@
                          "Source":  "Fab:CozyNature"
                      },
                      {
-                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Materials/Terrain/MF_Grass",
-                         "Class":  "MaterialFunction",
-                         "Source":  "Fab:CozyNature"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Materials/Terrain/MF_Rock",
-                         "Class":  "MaterialFunction",
-                         "Source":  "Fab:CozyNature"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Materials/Terrain/MF_Sand",
-                         "Class":  "MaterialFunction",
-                         "Source":  "Fab:CozyNature"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/Materials/Terrain/M_Landscape",
-                         "Class":  "Material",
-                         "Source":  "Fab:CozyNature"
-                     },
-                     {
                          "Package":  "/Other5ForestBiome_Minimal/CozyNature/Materials/Trees/M_Leafs",
                          "Class":  "Material",
                          "Source":  "Fab:CozyNature"
@@ -349,11 +329,6 @@
                      },
                      {
                          "Package":  "/Other5ForestBiome_Minimal/CozyNature/MaterialsInstances/Rocks/MI_Rock3",
-                         "Class":  "MaterialInstanceConstant",
-                         "Source":  "Fab:CozyNature"
-                     },
-                     {
-                         "Package":  "/Other5ForestBiome_Minimal/CozyNature/MaterialsInstances/Terrain/MI_Landscape",
                          "Class":  "MaterialInstanceConstant",
                          "Source":  "Fab:CozyNature"
                      },
